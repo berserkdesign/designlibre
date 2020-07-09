@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/berserkdesign/designlibre/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 🌍 &nbsp; Free Design, Design Libre, Diseño Libre
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to this community platform! We are building the foundations to help unite people and contribute to technology projects openly and freely. A platform to connect, educate and empower our global community to solve society's greatest challenges. Together.
 
-### Markdown
+## 👀 &nbsp; Why?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have worked together with people from all over the world on open hardware projects to tackle some of the most pressing problems, building machines and tools to fix the problem. The more we work on these projects, the more we realized that there are two main obstacles to the success of a project:
 
-```markdown
-Syntax highlighted code block
+    The success of a project is closely related to your community, and for a new project that is started, finding and creating your own strong community is often a time-consuming and resource-intensive activity.
+    While working on a project, we often find that we have to use a multitude of digital tools that are often incomplete, disconnected, privately owned, and not open source.
 
-# Header 1
-## Header 2
-### Header 3
+## ⚡️ &nbsp; What is this platform?
 
-- Bulleted
-- List
+Our community platform helps people to grow communites and make it easier to collaborate on environmental projects in one single place. A place where people can meet, help each other, ask and answer questions, share their innovative ways of fixing problems, discover people around them, connect locally, find events and more. It aims to provide the tools to connect both online and offline. Amongst other features we have How-to, Events and Maps.
 
-1. Numbered
-2. List
+## 👐 Open Source
 
-**Bold** and _Italic_ and `Code` text
+Society and the environment are a kind of donkey screwed in many ways. We believe that free knowledge and open source are the fastest and most efficient ways of generating innovation to tackle some of humanity's most pressing problems. Simple.
 
-[Link](url) and ![Image](src)
-```
+## 🤝 &nbsp; Contributions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Contributions, issues and feature requests are very welcome.
 
-### Jekyll Themes
+## 🌟 &nbsp; Core Team
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/berserkdesign/designlibre/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If needed you can [drop us a line here](mailto:alejandroalvarez@berserk.design?subject=contact%20from%20github) 👋
+Or join our [Discord channel](#)
 
-### Support or Contact
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars0.githubusercontent.com/u/12936825?s=460&v=4" width="50px;"/><br /><sub><b>Berserk Design</b></sub>](https://github.com/berserkdesign)<br />[💻] |
+| :---: | :---: |
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- ALL-CONTRIBUTORS-LIST:END -->
