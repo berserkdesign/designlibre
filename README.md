@@ -7,8 +7,9 @@ Welcome to this community platform! We are building the foundations to help unit
 
 We have worked together with people from all over the world on open hardware projects to tackle some of the most pressing problems, building machines and tools to fix the problem. The more we work on these projects, the more we realized that there are two main obstacles to the success of a project:
 
-    The success of a project is closely related to your community, and for a new project that is started, finding and creating your own strong community is often a time-consuming and resource-intensive activity.
-    While working on a project, we often find that we have to use a multitude of digital tools that are often incomplete, disconnected, privately owned, and not open source.
+   The success of a project is closely related to your community, and for a new project that is started, finding and creating your own strong community is often a time-consuming and resource-intensive activity.
+  
+   While working on a project, we often find that we have to use a multitude of digital tools that are often incomplete, disconnected, privately owned, and not open source.
 
 ## ⚡️ &nbsp; What is this platform?
 
@@ -25,11 +26,9 @@ Contributions, issues and feature requests are very welcome.
 ## 🌟 &nbsp; Core Team
 
 If needed you can [drop us a line here](mailto:alejandroalvarez@berserk.design?subject=contact%20from%20github) 👋
-Or join our [Discord channel](#)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/12936825?s=460&v=4" width="50px;"/><br /><sub><b>Berserk Design</b></sub>](https://github.com/berserkdesign)<br />[💻] |
-| :---: | :---: |
+[<img src="https://avatars0.githubusercontent.com/u/12936825?s=460&v=4" width="50px;"/><br /><sub><b>Berserk Design</b></sub>](https://github.com/berserkdesign)
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
